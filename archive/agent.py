@@ -1,4 +1,4 @@
-"""Budget-aware tariff campaign agent.
+"""Enrique-agent: budget-aware tariff campaign agent.
 
 Historical transitions are used only to rank pilot hypotheses. Final campaign
 decisions use noisy pilot observations with an uncertainty penalty.
